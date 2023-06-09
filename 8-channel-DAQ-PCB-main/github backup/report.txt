@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\anup\Desktop\DAQ_board_gerber\ADA4254 revised\8_channel_ada4254-F_Cu.gbr'.
+Plotted to 'C:\Users\anup\Desktop\DAQ_board_gerber\ADA4254 revised\8_channel_ada4254-B_Cu.gbr'.
+Plotted to 'C:\Users\anup\Desktop\DAQ_board_gerber\ADA4254 revised\8_channel_ada4254-F_Paste.gbr'.
+Plotted to 'C:\Users\anup\Desktop\DAQ_board_gerber\ADA4254 revised\8_channel_ada4254-B_Paste.gbr'.
+Plotted to 'C:\Users\anup\Desktop\DAQ_board_gerber\ADA4254 revised\8_channel_ada4254-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\anup\Desktop\DAQ_board_gerber\ADA4254 revised\8_channel_ada4254-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\anup\Desktop\DAQ_board_gerber\ADA4254 revised\8_channel_ada4254-F_Mask.gbr'.
+Plotted to 'C:\Users\anup\Desktop\DAQ_board_gerber\ADA4254 revised\8_channel_ada4254-B_Mask.gbr'.
+Plotted to 'C:\Users\anup\Desktop\DAQ_board_gerber\ADA4254 revised\8_channel_ada4254-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\anup\Desktop\DAQ_board_gerber\ADA4254 revised\8_channel_ada4254-job.gbrjob'.
+Info: Done.

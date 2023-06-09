@@ -1,0 +1,26 @@
+07-29 03:24:11 replicate_layout.action_replicate_layout 313:Plugin executed on: 'win32'
+07-29 03:24:11 replicate_layout.action_replicate_layout 314:Plugin executed with python version: '3.9.10 (main, Feb 11 2022, 04:18:11) [MSC v.1928 64 bit (AMD64)]'
+07-29 03:24:11 replicate_layout.action_replicate_layout 315:KiCad build version: (6.0.4)
+07-29 03:24:11 replicate_layout.action_replicate_layout 316:Replicate layout plugin version: 74 started
+07-29 03:24:11 replicate_layout.action_replicate_layout 329:All top level windows titles are:
+8_channel_ada4254 — kicad 6.0
+*adc_1_sch [8_channel_ada4254/adc_1/] — schematic editor
+
+*8_channel_ada4254 — pcb editor
+
+[no symbol loaded] — symbol editor
+
+3d viewer
+
+kipython
+07-29 03:24:11 replicate_layout.action_replicate_layout 330:All top level windows objects are:
+ <wx._core.Frame object at 0x0000025D55FB95E0>
+<wx._core.Frame object at 0x0000025D55FB9700>
+<wx._core.Frame object at 0x0000025D55FB95E0>
+<wx._core.Frame object at 0x0000025D55FB9700>
+<wx._core.Frame object at 0x0000025D55FB95E0>
+<wx._core.Frame object at 0x0000025D55FB9700>
+<wx._core.Frame object at 0x0000025D55FB95E0>
+<wx._core.Frame object at 0x0000025D55FB9700>
+<wx._core.Frame object at 0x0000025D55FB95E0>
+<wx._core.Frame object at 0x0000025D470AA940>
