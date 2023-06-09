@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "digikey-footprints")(type "KiCad")(uri "C:/Users/anup/Downloads/digikey-kicad-library-master/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "C:/Users/anup/Downloads/LIB_142-0701-801/142-0701-801/KiCad")(options "")(descr ""))
+  (lib (name "ADP150AUJZ-3")(type "KiCad")(uri "C:/Users/anup/Downloads/LIB_ADP150AUJZ-3.3-R7/ADP150AUJZ-3.3-R7/ADP150AUJZ-3.3-R7")(options "")(descr "")(disabled))
+  (lib (name "kiCad2")(type "KiCad")(uri "C:/Users/anup/Downloads/LIB_ADP150AUJZ-3.3-R7/ADP150AUJZ-3.3-R7/kiCad2")(options "")(descr ""))
+  (lib (name "KiCad3")(type "KiCad")(uri "C:/Users/anup/Downloads/LIB_ADA4254ARUZ-R7/ADA4254ARUZ-R7/KiCad3")(options "")(descr ""))
+  (lib (name "panel")(type "KiCad")(uri "C:/Users/anup/Downloads/kicad_libs-master (2)/kicad_libs-master/Panelization.pretty")(options "")(descr ""))
+)
