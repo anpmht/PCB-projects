@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\anup\Documents\amplifier board\amplifier_board_LTC6915\amplifier_board_LTC6915.kicad_sch</source>
+    <date>5/4/2022 8:35:41 PM</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>amplifier_board_LTC6915.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23036e1a-da47-42f6-907a-8cb5c192323b</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d2e3cbd-a7da-4440-b490-4f19b09f58e0</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe148714-b0cf-44d7-9b6c-f06914620619</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a77c15f-41c3-499d-9555-62ddb29becbf</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100uf</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59fe4e68-4119-4952-b511-7d1576b16691</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd71d7ce-19f7-411b-9f95-5e5cb5d86d98</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5353591-704c-4807-a94a-1731cc459740</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b76c4010-9c0b-490f-8699-579e51351251</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f12f2b6-ffb8-4997-9d87-87b982ecd31d</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c94014c-bf11-4cce-843e-32e2459eae66</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3b6db9b-641d-411e-b7e2-f8b30d3e12bc</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44b8d4ec-c03f-487f-a782-f28083ef97a1</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>296f23ba-4d28-4f71-91fa-c9ce5a8d0c63</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>LTC6915IGN#PBF</value>
+      <footprint>LTC6915:SOP64P601X175-16N</footprint>
+      <datasheet>http://www.linear.com/docs/4005</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LTC6915IGN#PBF</field>
+        <field name="Arrow Price/Stock">http://www.arrow.com/en/products/ltc6915ignpbf/linear-technology</field>
+        <field name="Description">LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Linear Technology</field>
+        <field name="Manufacturer_Part_Number">LTC6915IGN#PBF</field>
+        <field name="Mouser Part Number">584-LTC6915IGN#PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915IGN%23PBF</field>
+      </fields>
+      <libsource lib="ltc6915" part="LTC6915IGN#PBF" description="LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16"/>
+      <property name="Description" value="LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Linear Technology"/>
+      <property name="Manufacturer_Part_Number" value="LTC6915IGN#PBF"/>
+      <property name="Mouser Part Number" value="584-LTC6915IGN#PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915IGN%23PBF"/>
+      <property name="Arrow Part Number" value="LTC6915IGN#PBF"/>
+      <property name="Arrow Price/Stock" value="http://www.arrow.com/en/products/ltc6915ignpbf/linear-technology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9ad98da-de65-4e94-a4ae-aa6d45931b26</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Screw_Terminal_01x03</value>
+      <footprint>TerminalBlock_Philmore:TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f95c6027-15cc-4326-9d31-38f6dba6baec</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x05_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fcde1b4-22f8-44bc-9d45-5aad5203d977</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x05_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01e3b9d0-d4f8-466a-9579-fe215661ef43</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x05_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e7d5b89-066b-4def-972a-f4080c2bd0b9</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x05_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ea0cb68-49c5-4e4b-b6df-da0b2c6fec1b</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x05_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38d5bcc8-4273-4342-98ec-2bb23ac6550f</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49caa5d6-5b56-48cf-aebd-54455505750f</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a380f22-5252-4c14-8b2a-f698430db13e</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d18d7f48-ce4f-4465-8a48-7e68fdf6da90</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3425811-e111-437c-8bf3-b2d34027d572</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Philmore:TerminalBlock_Philmore_TB132_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e6d0e8a-71d6-4022-a125-9547b413fa2e</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Philmore:TerminalBlock_Philmore_TB132_1x02_P5.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d2b3e90-e30b-4a59-801c-efee6204fc47</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>798da77c-c42d-4bf9-a63d-b73f07012dd3</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a411e250-c1b1-4d96-92a5-baa0346b4d5f</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bcfd7e7-d434-4568-8f07-61e27ffd4d8f</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8963558-6b4b-4d01-8ea5-ce9bf86a17a5</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f420666-0406-41a9-a0f0-b4034ba786b5</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba8d9b82-8a5d-4e00-8811-3620c5d39422</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cd87eeb-632e-4e3a-a8b4-44f26da46242</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35b51e50-fd32-4078-b7f8-0d2bce36b67c</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>440f24e6-777d-402c-bbe1-196a1374632d</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c587288-b949-4957-8d15-455c14d42be0</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03df8b1b-2e99-4fd7-847a-9f9ff2152f47</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2de86dde-1ba6-4500-9110-c783e2d70d44</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1e8c6f8-914a-40f9-a007-a11551537867</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>L78L09_SO8</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L78L09_SO8" description="Positive 100mA 30V Linear Regulator, Fixed Output 9V, SO-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b6fa031-d624-43d1-842e-f25c3d8a114c</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>L79L08_SO8</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.farnell.com/datasheets/1827870.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L79L08_SO8" description="Negative 100mA -30V Linear Regulator, Fixed Output -5V, SO-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="amplifier_board_LTC6915.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1da6dec-d569-4cfe-b70b-354611bf1d93</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x03_Male">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x05_Male">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x03">
+      <description>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L78L09_SO8">
+      <description>Positive 100mA 30V Linear Regulator, Fixed Output 9V, SO-8</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L78L09_SO8</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="NC" type="no_connect"/>
+        <pin num="6" name="GND" type="passive"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="IN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L79L08_SO8">
+      <description>Negative 100mA -30V Linear Regulator, Fixed Output -5V, SO-8</description>
+      <docs>http://www.farnell.com/datasheets/1827870.pdf</docs>
+      <footprints>
+        <fp>SOIC?8*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L79L08_SO8</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.farnell.com/datasheets/1827870.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="IN" type="power_in"/>
+        <pin num="3" name="IN" type="passive"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="IN" type="passive"/>
+        <pin num="7" name="IN" type="passive"/>
+        <pin num="8" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="ltc6915" part="LTC6915IGN#PBF">
+      <description>LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16</description>
+      <docs>http://www.linear.com/docs/4005</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LTC6915IGN#PBF</field>
+        <field name="Footprint">SOP64P601X175-16N</field>
+        <field name="Datasheet">http://www.linear.com/docs/4005</field>
+        <field name="Description">LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Linear Technology</field>
+        <field name="Manufacturer_Part_Number">LTC6915IGN#PBF</field>
+        <field name="Mouser Part Number">584-LTC6915IGN#PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915IGN%23PBF</field>
+        <field name="Arrow Part Number">LTC6915IGN#PBF</field>
+        <field name="Arrow Price/Stock">http://www.arrow.com/en/products/ltc6915ignpbf/linear-technology</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SHDN" type="passive"/>
+        <pin num="2" name="IN-" type="passive"/>
+        <pin num="3" name="IN+" type="passive"/>
+        <pin num="4" name="V-" type="passive"/>
+        <pin num="5" name="HOLD_~{THRU}" type="passive"/>
+        <pin num="6" name="~{CS(D0})" type="passive"/>
+        <pin num="7" name="DIN(D1)" type="passive"/>
+        <pin num="8" name="CLK(D2)" type="passive"/>
+        <pin num="9" name="DOUT(D3)" type="passive"/>
+        <pin num="10" name="DGND" type="passive"/>
+        <pin num="11" name="PARALLEL_~{SERIAL}" type="passive"/>
+        <pin num="12" name="NC" type="no_connect"/>
+        <pin num="13" name="REF" type="passive"/>
+        <pin num="14" name="SENSE" type="passive"/>
+        <pin num="15" name="OUT" type="passive"/>
+        <pin num="16" name="V+" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files (x86)\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files (x86)\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files (x86)\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="ltc6915">
+      <uri>C:/Users/anup/Downloads/LIB_LTC6915IGN#PBF/LTC6915IGN#PBF/KiCad/LTC6915IGN#PBF.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="16" pinfunction="V+" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="-5">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="3" name="D0">
+      <node ref="IC1" pin="6" pinfunction="~{CS(D0})" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="4" name="D1">
+      <node ref="IC1" pin="7" pinfunction="DIN(D1)" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="5" name="D2">
+      <node ref="IC1" pin="8" pinfunction="CLK(D2)" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="6" name="D3">
+      <node ref="IC1" pin="9" pinfunction="DOUT(D3)" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="7" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="10" pinfunction="DGND" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="8" name="IN+">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="IN+" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="IN-">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="IN-" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="11" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="IN" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="IN" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="IN" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="IN" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C14-Pad2)">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(IC1-Pad1)">
+      <node ref="IC1" pin="1" pinfunction="SHDN" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(IC1-Pad4)">
+      <node ref="IC1" pin="4" pinfunction="V-" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(IC1-Pad11)">
+      <node ref="IC1" pin="11" pinfunction="PARALLEL_~{SERIAL}" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(J6-Pad1)">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(J6-Pad2)">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(J6-Pad3)">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(J6-Pad4)">
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(J6-Pad5)">
+      <node ref="J6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(J8-Pad1)">
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(J9-Pad3)">
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(J10-Pad1)">
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(J11-Pad1)">
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(J11-Pad2)">
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="OUT">
+      <node ref="IC1" pin="14" pinfunction="SENSE" pintype="passive"/>
+      <node ref="IC1" pin="15" pinfunction="OUT" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="REF">
+      <node ref="IC1" pin="13" pinfunction="REF" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="unconnected-(IC1-Pad5)">
+      <node ref="IC1" pin="5" pinfunction="HOLD_~{THRU}" pintype="passive"/>
+    </net>
+    <net code="30" name="unconnected-(IC1-Pad12)">
+      <node ref="IC1" pin="12" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(J3-Pad5)">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="32" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U2-Pad5)">
+      <node ref="U2" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U3-Pad4)">
+      <node ref="U3" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U3-Pad8)">
+      <node ref="U3" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\anup\Documents\amplifier boards\amplifier_board_LTC6915\amplifier_8_channel\ltc6915_8_channel board.kicad_sch</source>
+    <date>9/12/2022 11:27:42 PM</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ltc6915_8_channel board.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8210a333-5177-4e9f-9b6c-24ef46de9129</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b389ae6-83f8-44d1-b771-7123a65fcc69</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66c3b094-94e8-48d9-9718-568165e9e2f3</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b03f132-4fcf-40f1-8dbb-272a41766f30</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c62949d-c5c4-4a4b-9092-55d19c804eb7</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9960d36c-42cb-481e-9c67-fbf74d0c7c59</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c544a370-9b69-477d-b5e8-67bf4e74a073</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x3</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37d99804-3bca-4f16-985e-75b5e76a3d28</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf5c7e43-c303-4253-832b-d3d0d1296a39</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cd293c0-b7e8-46df-be3c-0ed721d5d743</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cea640f0-bed0-40d3-83fe-3c224deefee8</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8344ab74-c9b8-498e-8b1d-176d48c46ee8</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cece091-527b-48ef-a976-bd6ea710c206</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8886f17b-4b7e-47b7-a760-2dd2da43c07d</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9a962ad-ed1c-4383-912f-793ddeb3e880</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee9efe80-2fab-4a09-ac69-8e5ad373aa52</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>792a9405-6085-471e-83b4-c0f3215221f3</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34408fe5-bdc2-49df-a4c8-6f948c2d2a97</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79139a88-606b-4f87-9a29-de82856d2543</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad1b916f-6e0c-4d47-b5a5-6fb82ba3eb73</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d386d9b-beb4-47ad-8006-47573a4d6dc4</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69e9682e-dd7f-4212-88de-bc6459272033</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5eccb465-b965-4211-9d3f-42534ac93bce</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e213fed0-65a0-472f-98df-39f0fee91fac</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73de28db-7f5d-41a9-96eb-b702fef53540</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e4b690d-3ece-4f8b-b058-874300eed298</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a199634-a4eb-4a70-bfaa-4b0bc9268866</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b7da4f0-c852-46d0-ab8c-df12e64771e3</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5328e4fe-fb2a-4433-b228-a38244bd1258</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54e64358-482e-4ba5-b1d8-84bc5a0261c4</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1fdd944-4a09-49a3-a7dc-12be82d728a8</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>0.1</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15a9e6b5-901b-4452-a04e-52d4e425207d</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dab16a3d-c9c0-4830-982e-664f35e858df</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b51ba5c-e270-4954-8076-f1db7c55b427</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e6aaf76-c178-444b-b0ea-2f50f3001fd9</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ae7f7c1-e694-41c4-b721-1a2dce954f2d</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>301d9723-7897-4b8f-8bfa-bffb4ec3c590</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ec58658-5726-47c9-9e9b-28fac34640db</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d1ccf58-bc3a-4e23-887b-b5468cafb035</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53bf6260-dc35-49ce-9f8f-4e131485ed46</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb063fdf-92f4-48dc-a4cb-3658a24be3b4</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c22605b-e593-4976-9c76-a1fb5f8cef5b</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>LTC6915IGN#PBF</value>
+      <footprint>Audio_Module:SOP64P600X175-16N</footprint>
+      <datasheet>http://www.linear.com/docs/4005</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LTC6915IGN#PBF</field>
+        <field name="Arrow Price/Stock">http://www.arrow.com/en/products/ltc6915ignpbf/linear-technology</field>
+        <field name="Description">LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Linear Technology</field>
+        <field name="Manufacturer_Part_Number">LTC6915IGN#PBF</field>
+        <field name="Mouser Part Number">584-LTC6915IGN#PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915IGN%23PBF</field>
+      </fields>
+      <libsource lib="ltc6915" part="LTC6915IGN#PBF" description="LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16"/>
+      <property name="Description" value="LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Linear Technology"/>
+      <property name="Manufacturer_Part_Number" value="LTC6915IGN#PBF"/>
+      <property name="Mouser Part Number" value="584-LTC6915IGN#PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915IGN%23PBF"/>
+      <property name="Arrow Part Number" value="LTC6915IGN#PBF"/>
+      <property name="Arrow Price/Stock" value="http://www.arrow.com/en/products/ltc6915ignpbf/linear-technology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0013dfac-8270-4e26-a11e-c9a8c13ba10f</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>LTC6915IGN#PBF</value>
+      <footprint>Audio_Module:SOP64P600X175-16N</footprint>
+      <datasheet>http://www.linear.com/docs/4005</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LTC6915IGN#PBF</field>
+        <field name="Arrow Price/Stock">http://www.arrow.com/en/products/ltc6915ignpbf/linear-technology</field>
+        <field name="Description">LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Linear Technology</field>
+        <field name="Manufacturer_Part_Number">LTC6915IGN#PBF</field>
+        <field name="Mouser Part Number">584-LTC6915IGN#PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915IGN%23PBF</field>
+      </fields>
+      <libsource lib="ltc6915" part="LTC6915IGN#PBF" description="LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16"/>
+      <property name="Description" value="LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Linear Technology"/>
+      <property name="Manufacturer_Part_Number" value="LTC6915IGN#PBF"/>
+      <property name="Mouser Part Number" value="584-LTC6915IGN#PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915IGN%23PBF"/>
+      <property name="Arrow Part Number" value="LTC6915IGN#PBF"/>
+      <property name="Arrow Price/Stock" value="http://www.arrow.com/en/products/ltc6915ignpbf/linear-technology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54b418d4-039d-40f0-9a89-fcd23b172b56</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>LTC6915IGN#PBF</value>
+      <footprint>Audio_Module:SOP64P600X175-16N</footprint>
+      <datasheet>http://www.linear.com/docs/4005</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LTC6915IGN#PBF</field>
+        <field name="Arrow Price/Stock">http://www.arrow.com/en/products/ltc6915ignpbf/linear-technology</field>
+        <field name="Description">LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Linear Technology</field>
+        <field name="Manufacturer_Part_Number">LTC6915IGN#PBF</field>
+        <field name="Mouser Part Number">584-LTC6915IGN#PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915IGN%23PBF</field>
+      </fields>
+      <libsource lib="ltc6915" part="LTC6915IGN#PBF" description="LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16"/>
+      <property name="Description" value="LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Linear Technology"/>
+      <property name="Manufacturer_Part_Number" value="LTC6915IGN#PBF"/>
+      <property name="Mouser Part Number" value="584-LTC6915IGN#PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915IGN%23PBF"/>
+      <property name="Arrow Part Number" value="LTC6915IGN#PBF"/>
+      <property name="Arrow Price/Stock" value="http://www.arrow.com/en/products/ltc6915ignpbf/linear-technology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>659b069c-5076-465b-acd7-c3eabb6986c8</tstamps>
+    </comp>
+    <comp ref="IC4">
+      <value>LTC6915IGN#PBF</value>
+      <footprint>Audio_Module:SOP64P600X175-16N</footprint>
+      <datasheet>http://www.linear.com/docs/4005</datasheet>
+      <fields>
+        <field name="Arrow Part Number">LTC6915IGN#PBF</field>
+        <field name="Arrow Price/Stock">http://www.arrow.com/en/products/ltc6915ignpbf/linear-technology</field>
+        <field name="Description">LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Linear Technology</field>
+        <field name="Manufacturer_Part_Number">LTC6915IGN#PBF</field>
+        <field name="Mouser Part Number">584-LTC6915IGN#PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915IGN%23PBF</field>
+      </fields>
+      <libsource lib="ltc6915" part="LTC6915IGN#PBF" description="LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16"/>
+      <property name="Description" value="LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16"/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="Linear Technology"/>
+      <property name="Manufacturer_Part_Number" value="LTC6915IGN#PBF"/>
+      <property name="Mouser Part Number" value="584-LTC6915IGN#PBF"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915IGN%23PBF"/>
+      <property name="Arrow Part Number" value="LTC6915IGN#PBF"/>
+      <property name="Arrow Price/Stock" value="http://www.arrow.com/en/products/ltc6915ignpbf/linear-technology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9d07faa-f4d8-4d23-807f-b1a11678337d</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0118d417-a333-4a45-a08a-c0b89e0a95d3</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa4b8e32-55fa-4463-bb1a-d7416dbda53e</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>271f28a5-6c9a-4078-991b-d1f08d8bb7c5</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>412d83ba-e00d-4944-ac5f-c776be6bcf14</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07b6bdc5-adc7-4e1e-b5c1-a9010a499b3a</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f52d22c8-e91b-411f-bca7-8a7ec2beff6c</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdd8df33-ab54-4891-a4a9-b5d587e0bfb4</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9a684c5-672c-4b1a-9180-cf889e385d40</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88b09173-1482-49a9-b546-4f7e61f07c20</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b8624bf-67ab-4469-8523-1a8a06485db7</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c31df983-df84-44c4-8284-f9638e0bb229</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75e6d07b-f584-4c6f-8afe-4d6a24e3f154</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5179578a-733b-4d7b-bec4-d76478ee8670</tstamps>
+    </comp>
+    <comp ref="JP5">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>089db2f2-2c33-4c0b-9184-dc0a5547c0cd</tstamps>
+    </comp>
+    <comp ref="JP6">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c42adfa9-5329-4b3a-9df6-2c94049ee14a</tstamps>
+    </comp>
+    <comp ref="JP7">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a606dba-2149-4591-8a85-384aedc7990b</tstamps>
+    </comp>
+    <comp ref="JP8">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e48ff4db-989e-45cb-8db5-75b31e5ea83e</tstamps>
+    </comp>
+    <comp ref="JP9">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4940720c-cf8d-49b9-b793-8e389cbda642</tstamps>
+    </comp>
+    <comp ref="JP10">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5202f947-b9ae-414b-9064-fca17b388420</tstamps>
+    </comp>
+    <comp ref="JP11">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b7d0e9a-3ed2-475a-8460-77ac8e755ec9</tstamps>
+    </comp>
+    <comp ref="JP12">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdcc7707-da8c-4d76-a1ed-c13682919b5a</tstamps>
+    </comp>
+    <comp ref="JP13">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24f9c173-bc63-422f-8150-1c1053b95f6f</tstamps>
+    </comp>
+    <comp ref="JP14">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5724a11f-b766-49e9-9913-9d8ccb6adabd</tstamps>
+    </comp>
+    <comp ref="JP15">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4b0f022-ac78-441f-8a97-e578079232e9</tstamps>
+    </comp>
+    <comp ref="JP16">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7e0c2bb-b5c2-4888-955d-d1920cdddfb5</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ac1e099-396c-4d3b-ab79-f864e5a18abc</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5d28cc5-0d06-4447-b5dd-7837324167af</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>008a07aa-c675-44fe-925d-ca17c768d7bc</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bfd1a33-b4d4-4680-b895-03e3faadaf27</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e04ba6da-c1d3-4b5b-9d28-9d54292474a8</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8074854-8756-4ea0-835a-46fd50032fe1</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a78f3f47-fda1-4af1-ad5a-cdb8513a6215</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f42c336-732e-4dd6-9ec2-581911bd8e43</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7321c15d-b21a-4e24-b37c-56b0bbc09be0</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1a6289d-38c4-4826-a34a-01c8abf09b14</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3526446d-4269-4a6c-a747-4dae2d6d176d</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9daf28e9-e434-4421-a163-df532f62633a</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d0305db-d87a-4f55-9f26-da7bb14a53e7</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51df97b0-a56e-484e-8466-3da42ad16163</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72036d09-c7f0-4ece-97ee-740804652fec</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93e1d712-9c00-4076-84cc-44f742bc40e7</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7a1c276-85da-4d17-9824-77e45ee24a52</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f80465ed-25d4-4a63-bde5-b776abe83177</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4992529-4823-40b8-a033-fd0e1400f613</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e51a6bd-ea49-4f80-ad9a-d62f97f124a2</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e8c8fca-c99e-4bc1-8c47-310409614eff</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5892522f-9785-4fda-a386-6c8ed03e3b08</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90618e99-89b8-4511-980b-2201fe2d976e</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bc313ca-8267-4ab5-9b6b-d25be706965c</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33ae2f76-d58f-48b1-9c1e-966d19ac79cd</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>063e2100-7f26-4168-8a68-b06307da91fc</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d30f398e-791c-4caf-a288-361926f30ce3</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>171296c0-0a19-4953-ab30-2ae7a926495e</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a88a5f3-f634-478b-8fd2-cfdf219e3962</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11536cf9-3bc7-4ecd-9696-11f50413f39a</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42ddf6fb-a6f8-4981-bcd1-acaf3cd75dd0</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15354089-b3f0-4c57-a769-cc53a601ee00</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea730d5e-cf3d-44ce-81c2-d8495a72db68</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99aa73e5-d4cf-43be-89e7-a1e74015313f</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e664c34f-5182-49b4-b586-83a03fd6b7e2</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a613480-7ec4-4206-b6d4-870aa8d2c651</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95681850-5f9b-43e9-bdfc-356e784e55f7</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c71dead6-572f-479e-8cb7-cf350e773377</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c9c0f2a-a932-4d95-8799-1baab953762a</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>073b6e20-059a-4934-a082-26e7cb6e1fd0</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>560a6ac0-b402-479a-b149-62b972ea302a</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00822cbc-6203-4f3d-9719-a2c3c0db2d28</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25ffbebc-a5ce-45ae-8ec1-ba715d50e661</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdb35ea3-dd4d-42f3-937c-ce548051cfab</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>R_Small</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdf08bd3-e0de-4838-b526-6e16f38ee1bd</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>R_Small</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7f31a09-fbc0-400f-910f-2d4c99c6186c</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>R_Small</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ac31075-8be2-4427-9da8-2452d61a2090</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>R_Small</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0a17a49-30eb-4a53-91b9-a13af7593ae7</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>R_Small</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c220702-c80f-49d9-af30-01b603b56923</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>L78L05_SO8</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L78L09_SO8" description="Positive 100mA 30V Linear Regulator, Fixed Output 9V, SO-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6dc167e-c0cd-47cf-b01d-42f4f8064bbe</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>L78L05_SO8</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L78L09_SO8" description="Positive 100mA 30V Linear Regulator, Fixed Output 9V, SO-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86e66980-ed2b-4b19-8c05-a98f805f5c0f</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>L78L05_SO8</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L78L09_SO8" description="Positive 100mA 30V Linear Regulator, Fixed Output 9V, SO-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5ee7acd-bd59-4531-9c63-f72d6c9d1ec3</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>L78L05_SO8</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L78L09_SO8" description="Positive 100mA 30V Linear Regulator, Fixed Output 9V, SO-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ltc6915_8_channel board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0557d687-48e8-4d6e-9fbd-8714c91a01f7</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_3_Open">
+      <description>Jumper, 3-pole, both open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*3Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_3_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L78L09_SO8">
+      <description>Positive 100mA 30V Linear Regulator, Fixed Output 9V, SO-8</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L78L09_SO8</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="NC" type="no_connect"/>
+        <pin num="6" name="GND" type="passive"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="IN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ltc6915" part="LTC6915IGN#PBF">
+      <description>LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16</description>
+      <docs>http://www.linear.com/docs/4005</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LTC6915IGN#PBF</field>
+        <field name="Footprint">SOP64P601X175-16N</field>
+        <field name="Datasheet">http://www.linear.com/docs/4005</field>
+        <field name="Description">LINEAR TECHNOLOGY - LTC6915IGN#PBF - INSTR AMPLIFIER, 200KHZ, 125DB, SSOP-16</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">Linear Technology</field>
+        <field name="Manufacturer_Part_Number">LTC6915IGN#PBF</field>
+        <field name="Mouser Part Number">584-LTC6915IGN#PBF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-LTC6915IGN%23PBF</field>
+        <field name="Arrow Part Number">LTC6915IGN#PBF</field>
+        <field name="Arrow Price/Stock">http://www.arrow.com/en/products/ltc6915ignpbf/linear-technology</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SHDN" type="passive"/>
+        <pin num="2" name="IN-" type="passive"/>
+        <pin num="3" name="IN+" type="passive"/>
+        <pin num="4" name="V-" type="passive"/>
+        <pin num="5" name="HOLD_~{THRU}" type="passive"/>
+        <pin num="6" name="~{CS(D0})" type="passive"/>
+        <pin num="7" name="DIN(D1)" type="passive"/>
+        <pin num="8" name="CLK(D2)" type="passive"/>
+        <pin num="9" name="DOUT(D3)" type="passive"/>
+        <pin num="10" name="DGND" type="passive"/>
+        <pin num="11" name="PARALLEL_~{SERIAL}" type="passive"/>
+        <pin num="12" name="NC" type="no_connect"/>
+        <pin num="13" name="REF" type="passive"/>
+        <pin num="14" name="SENSE" type="passive"/>
+        <pin num="15" name="OUT" type="passive"/>
+        <pin num="16" name="V+" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files (x86)\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files (x86)\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files (x86)\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files (x86)\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="ltc6915">
+      <uri/>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+51">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC1" pin="16" pinfunction="V+" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="+52">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC2" pin="16" pinfunction="V+" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="3" name="+53">
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC3" pin="16" pinfunction="V+" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="4" name="+54">
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC4" pin="16" pinfunction="V+" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="5" name="D01">
+      <node ref="IC1" pin="6" pinfunction="~{CS(D0})" pintype="passive"/>
+      <node ref="JP3" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="6" name="D02">
+      <node ref="IC2" pin="6" pinfunction="~{CS(D0})" pintype="passive"/>
+      <node ref="JP7" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="7" name="D03">
+      <node ref="IC3" pin="6" pinfunction="~{CS(D0})" pintype="passive"/>
+      <node ref="JP11" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="8" name="D04">
+      <node ref="IC4" pin="6" pinfunction="~{CS(D0})" pintype="passive"/>
+      <node ref="JP15" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="9" name="D11">
+      <node ref="IC1" pin="7" pinfunction="DIN(D1)" pintype="passive"/>
+      <node ref="JP4" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="10" name="D12">
+      <node ref="IC2" pin="7" pinfunction="DIN(D1)" pintype="passive"/>
+      <node ref="JP8" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="11" name="D13">
+      <node ref="IC3" pin="7" pinfunction="DIN(D1)" pintype="passive"/>
+      <node ref="JP12" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="12" name="D14">
+      <node ref="IC4" pin="7" pinfunction="DIN(D1)" pintype="passive"/>
+      <node ref="JP16" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="13" name="D21">
+      <node ref="IC1" pin="8" pinfunction="CLK(D2)" pintype="passive"/>
+      <node ref="JP2" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="14" name="D22">
+      <node ref="IC2" pin="8" pinfunction="CLK(D2)" pintype="passive"/>
+      <node ref="JP6" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="15" name="D23">
+      <node ref="IC3" pin="8" pinfunction="CLK(D2)" pintype="passive"/>
+      <node ref="JP10" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="16" name="D24">
+      <node ref="IC4" pin="8" pinfunction="CLK(D2)" pintype="passive"/>
+      <node ref="JP14" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="17" name="D31">
+      <node ref="IC1" pin="9" pinfunction="DOUT(D3)" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="18" name="D32">
+      <node ref="IC2" pin="9" pinfunction="DOUT(D3)" pintype="passive"/>
+      <node ref="JP5" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="19" name="D33">
+      <node ref="IC3" pin="9" pinfunction="DOUT(D3)" pintype="passive"/>
+      <node ref="JP9" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="20" name="D34">
+      <node ref="IC4" pin="9" pinfunction="DOUT(D3)" pintype="passive"/>
+      <node ref="JP13" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="21" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="10" pinfunction="DGND" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="V-" pintype="passive"/>
+      <node ref="IC2" pin="10" pinfunction="DGND" pintype="passive"/>
+      <node ref="IC2" pin="4" pinfunction="V-" pintype="passive"/>
+      <node ref="IC3" pin="10" pinfunction="DGND" pintype="passive"/>
+      <node ref="IC3" pin="4" pinfunction="V-" pintype="passive"/>
+      <node ref="IC4" pin="10" pinfunction="DGND" pintype="passive"/>
+      <node ref="IC4" pin="4" pinfunction="V-" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP10" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP11" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP12" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP13" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP14" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP15" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP16" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP7" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP8" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP9" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+      <node ref="R47" pin="1" pintype="passive"/>
+      <node ref="R48" pin="1" pintype="passive"/>
+      <node ref="R49" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="22" name="IN1+">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="IN+" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="IN1-">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="IN-" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="IN2+">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="IC2" pin="3" pinfunction="IN+" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="IN2-">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="IN-" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="IN3+">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="IC3" pin="3" pinfunction="IN+" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="IN3-">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="IC3" pin="2" pinfunction="IN-" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="IN4+">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="IC4" pin="3" pinfunction="IN+" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="IN4-">
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="IC4" pin="2" pinfunction="IN-" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(C18-Pad1)">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(C19-Pad2)">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(C26-Pad1)">
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(C27-Pad2)">
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(C35-Pad1)">
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(C36-Pad2)">
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R48" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R49" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(IC1-Pad11)">
+      <node ref="IC1" pin="11" pinfunction="PARALLEL_~{SERIAL}" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(IC2-Pad11)">
+      <node ref="IC2" pin="11" pinfunction="PARALLEL_~{SERIAL}" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(IC3-Pad11)">
+      <node ref="IC3" pin="11" pinfunction="PARALLEL_~{SERIAL}" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(IC4-Pad11)">
+      <node ref="IC4" pin="11" pinfunction="PARALLEL_~{SERIAL}" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(J5-Pad1)">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(J5-Pad2)">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(J8-Pad1)">
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(J8-Pad2)">
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(JP1-Pad3)">
+      <node ref="JP1" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(JP2-Pad3)">
+      <node ref="JP2" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(JP3-Pad3)">
+      <node ref="JP3" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(JP4-Pad3)">
+      <node ref="JP4" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(JP5-Pad3)">
+      <node ref="JP5" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(JP6-Pad3)">
+      <node ref="JP6" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(JP7-Pad3)">
+      <node ref="JP7" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(JP8-Pad3)">
+      <node ref="JP8" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(JP9-Pad3)">
+      <node ref="JP9" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(JP10-Pad3)">
+      <node ref="JP10" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(JP11-Pad3)">
+      <node ref="JP11" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(JP12-Pad3)">
+      <node ref="JP12" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(JP13-Pad3)">
+      <node ref="JP13" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(JP14-Pad3)">
+      <node ref="JP14" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(JP15-Pad3)">
+      <node ref="JP15" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(JP16-Pad3)">
+      <node ref="JP16" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+    </net>
+    <net code="71" name="OUT1">
+      <node ref="IC1" pin="14" pinfunction="SENSE" pintype="passive"/>
+      <node ref="IC1" pin="15" pinfunction="OUT" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="72" name="OUT2">
+      <node ref="IC2" pin="14" pinfunction="SENSE" pintype="passive"/>
+      <node ref="IC2" pin="15" pinfunction="OUT" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="73" name="OUT3">
+      <node ref="IC3" pin="14" pinfunction="SENSE" pintype="passive"/>
+      <node ref="IC3" pin="15" pinfunction="OUT" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+    </net>
+    <net code="74" name="OUT4">
+      <node ref="IC4" pin="14" pinfunction="SENSE" pintype="passive"/>
+      <node ref="IC4" pin="15" pinfunction="OUT" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+    </net>
+    <net code="75" name="REF1">
+      <node ref="IC1" pin="13" pinfunction="REF" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="76" name="REF2">
+      <node ref="IC2" pin="13" pinfunction="REF" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="77" name="REF3">
+      <node ref="IC3" pin="13" pinfunction="REF" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+    </net>
+    <net code="78" name="REF4">
+      <node ref="IC4" pin="13" pinfunction="REF" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+    </net>
+    <net code="79" name="Vin">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="IN" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="IN" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="IN" pintype="power_in"/>
+      <node ref="U4" pin="8" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="80" name="unconnected-(IC1-Pad1)">
+      <node ref="IC1" pin="1" pinfunction="SHDN" pintype="passive+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(IC1-Pad5)">
+      <node ref="IC1" pin="5" pinfunction="HOLD_~{THRU}" pintype="passive+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(IC1-Pad12)">
+      <node ref="IC1" pin="12" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(IC2-Pad1)">
+      <node ref="IC2" pin="1" pinfunction="SHDN" pintype="passive+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(IC2-Pad5)">
+      <node ref="IC2" pin="5" pinfunction="HOLD_~{THRU}" pintype="passive+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(IC2-Pad12)">
+      <node ref="IC2" pin="12" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(IC3-Pad1)">
+      <node ref="IC3" pin="1" pinfunction="SHDN" pintype="passive+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(IC3-Pad5)">
+      <node ref="IC3" pin="5" pinfunction="HOLD_~{THRU}" pintype="passive+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(IC3-Pad12)">
+      <node ref="IC3" pin="12" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(IC4-Pad1)">
+      <node ref="IC4" pin="1" pinfunction="SHDN" pintype="passive+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(IC4-Pad5)">
+      <node ref="IC4" pin="5" pinfunction="HOLD_~{THRU}" pintype="passive+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(IC4-Pad12)">
+      <node ref="IC4" pin="12" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(U2-Pad5)">
+      <node ref="U2" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(U3-Pad4)">
+      <node ref="U3" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(U3-Pad5)">
+      <node ref="U3" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U4-Pad4)">
+      <node ref="U4" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(U4-Pad5)">
+      <node ref="U4" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
