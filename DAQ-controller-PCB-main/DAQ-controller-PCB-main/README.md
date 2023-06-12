@@ -2,7 +2,6 @@
 ### main controller - teenssy_4.1
 ### mux IC - 74HCT154PW
 ### Controls 16 channel analog amplifier and four ADC using  74HCT154PW multiplexer.
-![controller](https://github.com/anpmht/DAQ-controller-PCB/assets/42551612/cd4042f1-6836-4804-b7f6-a45197e82a77)
-![controller back](https://github.com/anpmht/DAQ-controller-PCB/assets/42551612/6adbca87-cbc6-425c-8365-5b2f2b697f83)
-![3d front](https://github.com/anpmht/DAQ-controller-PCB/assets/42551612/269f01fb-53ec-4f08-8cef-e8aa75cf6070)
-![3d back](https://github.com/anpmht/DAQ-controller-PCB/assets/42551612/9afaf7bf-7501-4269-b33d-90662af8297b)
+![controller](https://github.com/anpmht/PCB-projects/assets/42551612/fe5b025e-b9a1-4479-ba62-2b12fc23d9a7)
+![controller back](https://github.com/anpmht/PCB-projects/assets/42551612/a98f0eff-7274-4b8f-a984-4153caf33d38)
+![3d front](https://github.com/anpmht/PCB-projects/assets/42551612/503a7ec8-d4d9-4b73-90f2-8dd3c8822e63)
