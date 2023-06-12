@@ -1,2 +1,16 @@
 # PCB-design-projects
 # kicad
+![ltc 4 channel front](https://github.com/anpmht/PCB-projects/assets/42551612/611c7f70-a939-4027-818e-e26dc31af76c)
+![ADA4254 3d](https://github.com/anpmht/PCB-projects/assets/42551612/409869fc-5e91-4250-bea8-3f2056254a62)
+![3d ltc6915](https://github.com/anpmht/PCB-projects/assets/42551612/d68f6521-d5b0-4080-999f-79a516a6e0b5)
+![3d front](https://github.com/anpmht/PCB-projects/assets/42551612/6c1e922a-52be-4360-8f0d-2c6d6c158ef6)
+![daw](https://github.com/anpmht/PCB-projects/assets/42551612/750e100b-4440-4830-aec4-b2335c4753c9)
+![rwerwe](https://github.com/anpmht/PCB-projects/assets/42551612/43ab57d0-60e4-4915-8272-88a3d970c410)
+![ltc6915 front](https://github.com/anpmht/PCB-projects/assets/42551612/5845a1b9-be63-4779-93b0-c4733ddcace7)
+![ADA4254 front view](https://github.com/anpmht/PCB-projects/assets/42551612/ffb17954-6dfb-486f-940e-9f8dbfd8b5f3)
+![ltc6915 4 channel](https://github.com/anpmht/PCB-projects/assets/42551612/643a7abb-1d71-496f-860b-6b0a7ec7d562)
+![controller](https://github.com/anpmht/PCB-projects/assets/42551612/a6396039-3471-409a-a10a-71b209628f8c)
+![31](https://github.com/anpmht/PCB-projects/assets/42551612/19ce2d7a-a3fc-4b0f-a9b4-f712f00def68)
+![36](https://github.com/anpmht/PCB-projects/assets/42551612/f0472c56-7423-4fe4-a784-07662d42225f)
+![50](https://github.com/anpmht/PCB-projects/assets/42551612/26daec29-52b6-4544-8b78-d5a3ccff0851)
+![55](https://github.com/anpmht/PCB-projects/assets/42551612/4597b040-6393-4da4-9fdb-728ba2a4b997)
